@@ -1,0 +1,11 @@
+Command# 1  -   docker build .
+Command# 2  -   docker run -p 3000:80 <image-id>
+Command# 3  -   docker ps -a
+
+
+
+
+
+
+
+
